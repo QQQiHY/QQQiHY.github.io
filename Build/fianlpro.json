@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "fianlpro.data.unityweb",
+"asmCodeUrl": "fianlpro.asm.code.unityweb",
+"asmMemoryUrl": "fianlpro.asm.memory.unityweb",
+"asmFrameworkUrl": "fianlpro.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
